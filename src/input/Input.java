@@ -18,5 +18,8 @@ public class Input {
                 line
                         comment in java
         */
+        System.out.println("Enter any number");
+        int num = sc.nextInt();
+        System.out.println(num);
     }
 }
